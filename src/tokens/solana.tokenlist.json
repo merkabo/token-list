@@ -71665,6 +71665,22 @@
       }
     },
     {
+        "chainId": 101,
+        "address": "z7UBiPFNqEL3Zts3swNZSG8cz3fbazoiobqi5CBjZDA",
+        "symbol": "UWT",
+        "name": "Usturpunks Whitelist Token",
+        "decimals": 0,
+        "logoURI": "https://bafkreifb5ot2vcbxhtj6c2oq77yu2xfdmrvuv4pchmdxaakfy4qm3opfke.ipfs.dweb.link/",
+        "tags": [
+          "social-token"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/kzsKPX7khd",
+            "twitter": "https://twitter.com/usturpunks",
+            "website": "https://usturpunks.club"
+        }
+      },
+    {
       "chainId": 101,
       "address": "A7sNcaeuoL7e5Lv5o1SKTH9aQhe6eaQaaNFtYnSQHcNt",
       "symbol": "GOD",
